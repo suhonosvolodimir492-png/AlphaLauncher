@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+build/
+dist/
+*.spec
+data/
+minecraft/
+AlphaLauncher.exe
